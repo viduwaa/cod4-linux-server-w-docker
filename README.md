@@ -5,7 +5,7 @@
 ### Prerequisites
 Ensure Docker is installed on your system. If not, download it
 ```bash
-sudo apt get-update && apt sudo get-install docker.io
+sudo apt get-update && sudo apt get-install docker.io
 ```
 
 ### 1. Pull the Docker Image
