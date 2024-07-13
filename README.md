@@ -1,6 +1,7 @@
 # Call of Duty 4 Server Setup with Docker
 
 **This is the 1st time I worked with docker there might be some errors, but currently I did not find any**
+**If you are using a VPS, make sure to open port 28960 (both TCP and UDP) in your VPS firewall using iptables or ufw, and in your VPS provider's control panel.**
 
 ### Prerequisites
 Ensure Docker is installed on your system. If not, download it
